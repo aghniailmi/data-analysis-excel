@@ -1,11 +1,11 @@
 # Data Analysis Project by Excel
 
-This project analyzes performance using Excel.
+This project analysis performance using Excel.
 
 Tools:
 - Microsoft Excel
-- Pivot Table
-- Data Cleaning
+- Power Pivot
+- Power Query
 
 Status:
 Project in progress.
